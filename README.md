@@ -1,7 +1,3 @@
 # JenkinsTest
 
-Hello world abc
-ttt
-asdas
-acsc
-sac
+Hello world DONE
